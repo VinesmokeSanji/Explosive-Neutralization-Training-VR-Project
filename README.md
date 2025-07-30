@@ -11,7 +11,7 @@ This VR simulation is more than just a visual guide; it's a hands-on training to
 - **High Quality Model Assets made in Blender**:  
   A 3D model of pipe bombs and related components, all crafted in Blender. This asset is optimized for VR performance and realism, enabling users to closely inspect and interact with each part during training.
 
-![Top Cap Pipe Bomb Model Render](https://raw.githubusercontent.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/main/Blender-Renders/1920x1080%20top%20cap%20structure.png)
+![Top Cap Pipe Bomb Model Render](https://github.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/blob/main/Blender%20Renders/render3.png)
 ![Pipe Bomb Body Render](https://raw.githubusercontent.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/main/Blender-Renders/1920x1080%20pipe%20body%20structure.png)
 ![Model Render](https://raw.githubusercontent.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/main/Blender-Renders/2560x1600%20open%20scene2.png)
 ![Model Assembly-Disassembly Animation](https://raw.githubusercontent.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/main/Blender-Renders/pipe_bomb_animation.mp4)
