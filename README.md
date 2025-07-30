@@ -11,15 +11,37 @@ This VR simulation is more than just a visual guide; it's a hands-on training to
 - **High Quality Model Assets made in Blender**:  
   A 3D model of pipe bombs and related components, all crafted in Blender. This asset is optimized for VR performance and realism, enabling users to closely inspect and interact with each part during training.
 
-![Top Cap Pipe Bomb Model Render](https://github.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/blob/main/Blender%20Renders/render3.png)
-![Pipe Bomb Body Render](https://raw.githubusercontent.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/main/Blender-Renders/1920x1080%20pipe%20body%20structure.png)
-![Model Render](https://raw.githubusercontent.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/main/Blender-Renders/2560x1600%20open%20scene2.png)
-![Model Assembly-Disassembly Animation](https://raw.githubusercontent.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/main/Blender-Renders/pipe_bomb_animation.mp4)
+<table>
+    <tr>
+        <td>
+            <img src="https://github.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/blob/main/Blender%20Renders/render3.png" alt="Top Cap Pipe Bomb Model Render" width="100%">
+        </td>
+        <td>
+            <img src="https://github.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/blob/main/Blender%20Renders/render2.png" alt="Pipe Bomb Body Render" width="100%">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/blob/main/Blender%20Renders/render5.png" alt="Model Render" width="100%">
+        </td>
+        <td>
+            <video src="https://github.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/blob/main/Blender%20Renders/pipe_bomb_animation.mp4" controls width="100%"></video>
+        </td>
+    </tr>
+</table>
 
 - **Interactive Bomb Components**: Every part of the pipe bomb model can be individually grabbed, inspected, and manipulated. This allows trainees to understand the mechanics and assembly of an IED in a way that text cannot replicate.
 
-![User Grab Interaction](https://raw.githubusercontent.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/main/Blender-Renders/GrabInteraction.png)
-![User performing the VR Simulation Training](https://raw.githubusercontent.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/main/Blender-Renders/user_in_simulation.jpg)
+<table>
+    <tr>
+        <td>
+            <img src="https://github.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/blob/main/Blender%20Renders/GrabInteraction.png" alt="User Grab Interaction" width="100%">
+        </td>
+        <td>
+            <img src="https://github.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/blob/main/Blender%20Renders/user_in_simulation.jpg" alt="User performing the VR Simulation Training" width="100%">
+        </td>
+    </tr>
+</table>
 
 - **Real-time Feedback & Performance Tracking**: The simulation logs user interactions and tracks performance, including failed neutralization attempts. This data is crucial for identifying knowledge gaps and providing adaptive training.
 
@@ -37,21 +59,21 @@ The training is structured into a series of scenes, each designed to build upon 
 
 This introductory scene familiarizes the user with the fundamental concepts and terminology of Improvised Explosive Devices (IEDs) and Explosive Ordnance Disposal (EOD). Users learn to identify basic threats and understand the roles of EOD personnel.
 
-![Digital Slides for training in Scene 1](https://raw.githubusercontent.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/main/Blender-Renders/Scene1.png)
+![Digital Slides for training in Scene 1](https://github.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/blob/main/Blender%20Renders/Scene1.png)
 
 ### Scene 2: Pipe Bomb Fundamentals
 
 Here, trainees can analyse the device to learn about its core components, basic construction, and various initiation mechanisms.
 
-![Inspecting pipe bomb components in Scene 2](https://raw.githubusercontent.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/main/Blender-Renders/Scene2.png)
+![Inspecting pipe bomb components in Scene 2](https://github.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/blob/main/Blender%20Renders/Scene2.png)
 
 ### Scene 3: The Defusal Procedure
 
 This is the core of the simulation. Users are guided through the step-by-step process of neutralizing a live pipe bomb. The simulation enforces safety precautions and requires the user to follow the correct sequence for disarming the device, such as detaching the correct wires, disarming the components safely.
 
-![Hands on Practice on Pipe Bomb Model in Scene 3](https://raw.githubusercontent.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/main/Blender-Renders/Scene3.png)
+![Hands on Practice on Pipe Bomb Model in Scene 3](https://github.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/blob/main/Blender%20Renders/Scene3.png)
 
-[![Watch a walkthrough of the defusal procedure in VR](https://raw.githubusercontent.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/main/Images/defusal_video_thumbnail.png)](https://raw.githubusercontent.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/main/Blender-Renders/Simulation_Demo_Video.mp4)
+[![Watch a walkthrough of the defusal procedure in VR](https://raw.githubusercontent.com/VinesmokeSanji/Explosive-Neutralization-Training-VR-Project/main/Images/defusal_video_thumbnail.png)](https://drive.google.com/file/d/1TFq7vXZF8jFhKTO6DqrRJG9LIbEeHF1H/view?usp=sharing)
 
 ## 📊 Performance Analytics
 
